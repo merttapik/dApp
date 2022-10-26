@@ -13,7 +13,7 @@ yarn install
 ```
 # .env.local dosyası ve moralis ile mongodb bağlantısı
 
-öncelikle en üst katmanda .enc.local dosyası oluşturun bu dosyanın içinde bulunması gerekenler
+öncelikle en üst katmanda .env.local dosyası oluşturun bu dosyanın içinde bulunması gerekenler
 
 ```env
 MORALIS_API_KEY=
